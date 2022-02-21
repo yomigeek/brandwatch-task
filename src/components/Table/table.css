@@ -1,0 +1,43 @@
+.tableList {
+  border-collapse: collapse;
+  width: 100%;
+  background: #fff;
+}
+
+.tableList td,
+.tableList th {
+  border: 1px solid #fff;
+  padding: 8px;
+  color: #c3783e;
+}
+
+.tableList tr:nth-child(even) {
+  color: #c3783e;
+}
+
+.tableList th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #f6f9fc;
+  color: #c3783e;
+  font-size: 14px;
+}
+
+.tableList td {
+  color: #67778f;
+  font-size: 15px;
+}
+
+.emptyResult {
+  margin: 50px 20px;
+}
+
+.view {
+  cursor: pointer;
+}
+
+.view:hover {
+  color: #c3783e;
+  cursor: pointer;
+}

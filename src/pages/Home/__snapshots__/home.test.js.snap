@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders page snapshot 1`] = `
+<DocumentFragment>
+  <header
+    class="sc-bdvvtL eEUwUe"
+  >
+    <a
+      href="/"
+    >
+      <img
+        alt="logo"
+        height="80px"
+        src="https://res.cloudinary.com/kugoo/image/upload/v1645483046/upload/logo.png"
+        width="80px"
+      />
+    </a>
+  </header>
+  <div
+    class="sc-dkPtRN kFbBId"
+  >
+    <div
+      class="sc-gsDKAQ lhdjnX"
+    >
+      <div
+        class="sc-jrQzAO gUrQdG"
+      >
+        <div
+          class="sc-kDTinF hHjyFb"
+        >
+          <div
+            class="sc-pVTFL jFaOGg"
+          >
+            <img
+              alt="loader"
+              height="70px"
+              src="https://res.cloudinary.com/kugoo/image/upload/v1631372885/webimages/loader.svg"
+              width="70px"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-iqseJM kibWwu"
+        >
+          <div
+            class="sc-jRQBWg egqIxt"
+          >
+            <div>
+              <br />
+              No topic selected 
+              <br />
+              <br />
+              Please click "View" to select a topic
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

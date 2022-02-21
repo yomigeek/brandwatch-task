@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-gsDKAQ dYrlEF"
+  >
+    <div
+      class="sc-bdvvtL dxscsO"
+    >
+      <div>
+        Welcome
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

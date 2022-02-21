@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders component snapshot 1`] = `
+<DocumentFragment>
+  <header
+    class="sc-bdvvtL eEUwUe"
+  >
+    <a
+      href="/"
+    >
+      <img
+        alt="logo"
+        height="80px"
+        src="https://res.cloudinary.com/kugoo/image/upload/v1645483046/upload/logo.png"
+        width="80px"
+      />
+    </a>
+  </header>
+</DocumentFragment>
+`;
