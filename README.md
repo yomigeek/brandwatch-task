@@ -5,7 +5,7 @@ A Topic Listing and Sentiment App
 
 - Loom video: 
 
-https://www.loom.com/share/a36bbe29462e499cae8b9ca7aaf0b55b
+https://www.loom.com/share/b505627bcc9e4a7ca95db5d6f120f19e
 
 ### Features
 
