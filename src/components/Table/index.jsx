@@ -12,7 +12,7 @@ const Table = ({ data, thead, viewHandler }) => {
             onClick={() => {
               viewHandler(data.id);
             }}
-            className='view'
+            className="view"
           >
             View
           </td>
@@ -23,7 +23,10 @@ const Table = ({ data, thead, viewHandler }) => {
           key={`table-element-${index}`}
           style={
             data.sentimentScore
-              ? { color: sentimentColorPicker(data.sentimentScore) }
+              ? {
+                  color: sentimentColorPicker(data.sentimentScore),
+                  fontSize: data.burst + 'px'
+                }
               : {}
           }
         >
